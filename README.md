@@ -92,7 +92,7 @@ gantt
 
 ## Proyectos de Investigación
 
-### 📊 Applied Computational Mathematics (2024)
+###  Applied Computational Mathematics (2024)
 **Descripción:** Implementación de algoritmos computacionales para resolver problemas de optimización económica, ecuaciones diferenciales y análisis numérico aplicado a modelos macroeconómicos dinámicos.
 
 **Tecnologías:** Numerical Analysis, Optimization, Python  
