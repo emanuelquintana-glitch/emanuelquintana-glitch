@@ -172,7 +172,9 @@ gantt
 > "La investigación en economía computacional representa la convergencia entre el rigor matemático de la teoría económica y el poder transformador de la ciencia de datos. Mi trabajo busca construir puentes metodológicos entre estas disciplinas, desarrollando herramientas que no solo expliquen fenómenos económicos, sino que también anticipen dinámicas complejas en sistemas sociales."
 
 **Emanuel Quintana Silva**  
+
 emanuel.quintana@uptc.edu.co
+
 Economista en Formación, Universidad Pedagógica y Tecnológica de Colombia  
 Última actualización: Diciembre 2024
 
