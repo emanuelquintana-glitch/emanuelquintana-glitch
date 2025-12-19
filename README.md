@@ -174,7 +174,7 @@ gantt
 **Emanuel Quintana Silva**  
 
 emanuel.quintana@uptc.edu.co
-
+<br>
 Economista en Formación, Universidad Pedagógica y Tecnológica de Colombia  
 Última actualización: Diciembre 2024
 
