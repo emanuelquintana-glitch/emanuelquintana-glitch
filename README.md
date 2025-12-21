@@ -54,37 +54,6 @@
 
 ---
 
-##  **PALETA AGUAMARINA**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <div style="width: 60px; height: 60px; background: #064273; border-radius: 10px; margin: 0 auto;"></div>
-        <div><strong>#064273</strong></div>
-        <div style="font-size: 12px;">Azul Marino</div>
-      </td>
-      <td align="center">
-        <div style="width: 60px; height: 60px; background: #09C3DB; border-radius: 10px; margin: 0 auto;"></div>
-        <div><strong>#09C3DB</strong></div>
-        <div style="font-size: 12px;">Aguamarina</div>
-      </td>
-      <td align="center">
-        <div style="width: 60px; height: 60px; background: #298AAA; border-radius: 10px; margin: 0 auto;"></div>
-        <div><strong>#298AAA</strong></div>
-        <div style="font-size: 12px;">Azul Coralino</div>
-      </td>
-      <td align="center">
-        <div style="width: 60px; height: 60px; background: #7ACDDA; border-radius: 10px; margin: 0 auto;"></div>
-        <div><strong>#7ACDDA</strong></div>
-        <div style="font-size: 12px;">Azul Claro</div>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ##  **DECLARACIÓN DE INVESTIGACIÓN**
 
 > "La investigación en economía computacional representa la convergencia entre el rigor matemático de la teoría económica y el poder transformador de la ciencia de datos."
