@@ -9,6 +9,7 @@
 
 <h3 style="color: #064273;">Economista en Formación · Investigador Computacional</h3>
 <h4 style="color: #298AAA;">Universidad Pedagógica y Tecnológica de Colombia</h4>
+</div>
 
 ---
 
