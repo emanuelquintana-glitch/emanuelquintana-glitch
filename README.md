@@ -62,7 +62,7 @@
 **Emanuel Quintana Silva**  
 *Economista en Formación, UPTC*  
  Tunja, Boyacá, Colombia  
- Última actualización: Diciembre 2024
+ Última actualización: 23 de Diciembre 2024
 
 ---
 
