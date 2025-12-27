@@ -18,16 +18,6 @@
 [![Acceder al Portafolio Aerospacial](https://img.shields.io/badge/_Ver_Portafolio_Interactivo_Completo-09C3DB?style=for-the-badge&logo=rocket&logoColor=white)](https://emanuelquintana-glitch.github.io/portfolio/)
 [![Código Fuente](https://img.shields.io/badge/_Ver_Código_Fuente-064273?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emanuelquintana-glitch/portfolio)
 
-<div style="border: 2px solid #064273; padding: 15px; margin: 20px 0; background: #f8fbfc; border-radius: 8px; text-align: left;">
-  <strong> Características del portafolio:</strong>
-  <ul style="margin: 10px 0;">
-    <li>Diseño temático <strong>aerospacial</strong> con colores <strong>aguamarina</strong></li>
-    <li>Panel de <strong>telemetría académica</strong> interactivo</li>
-    <li>Secciones organizadas como <strong>registro de misión</strong></li>
-    <li>Completamente <strong>responsive</strong> (móvil y escritorio)</li>
-    <li>Integración de <strong>badges académicos</strong> y herramientas</li>
-  </ul>
-</div>
 
 ---
 
