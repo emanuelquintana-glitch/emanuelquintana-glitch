@@ -13,7 +13,7 @@
 
 ---
 
-##  **PORTAFOLIO INTERACTIVO COMPLETO**
+##  **PORTAFOLIO INTERACTIVO COMPLETO.**
 
 [![Acceder al Portafolio Aerospacial](https://img.shields.io/badge/_Ver_Portafolio_Interactivo_Completo-09C3DB?style=for-the-badge&logo=rocket&logoColor=white)](https://emanuelquintana-glitch.github.io/portfolio/)
 [![Código Fuente](https://img.shields.io/badge/_Ver_Código_Fuente-064273?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emanuelquintana-glitch/portfolio)
@@ -21,7 +21,7 @@
 
 ---
 
-##  **ESTADÍSTICAS GITHUB**
+##  **ESTADÍSTICAS GITHUB.**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanuelquintana-glitch&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=09C3DB&text_color=c9d1d9&icon_color=298AAA)
 
@@ -29,15 +29,15 @@
 
 ---
 
-##  **ENLACES RÁPIDOS**
+##  **ENLACES RÁPIDOS.**
 
-###  Proyectos Destacados
+###  Proyectos Destacados.
 
 [![Applied Computational Mathematics](https://img.shields.io/badge/_Applied_Computational_Mathematics-064273?style=flat-square)](https://github.com/emanuelquintana-glitch/APPLIED_-_COMPUTATIONAL_MATHS)
 [![Economía Matemática](https://img.shields.io/badge/_Economía_Matemática:_Apuntes-09C3DB?style=flat-square)](https://github.com/emanuelquintana-glitch/Apuntes-Economia-Matematica)
 [![Aeronautics Analysis](https://img.shields.io/badge/_Aeronautics:_Computational_Analysis-298AAA?style=flat-square)](https://github.com/emanuelquintana-glitch/Aeronautics_1)
 
-###  Identificadores Académicos
+###  Identificadores Académicos.
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--8419--2805-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8419-2805)
 [![UPTC](https://img.shields.io/badge/UPTC-Universidad_Pedagógica_y_Tecnológica_de_Colombia-064273?style=flat-square)](https://www.uptc.edu.co/)
