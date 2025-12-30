@@ -19,13 +19,7 @@
 [![Código Fuente](https://img.shields.io/badge/_Ver_Código_Fuente-064273?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emanuelquintana-glitch/portfolio)
 
 
----
 
-##  **ESTADÍSTICAS GITHUB.**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanuelquintana-glitch&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=09C3DB&text_color=c9d1d9&icon_color=298AAA)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelquintana-glitch&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=09C3DB&text_color=c9d1d9)
 
 ---
 
