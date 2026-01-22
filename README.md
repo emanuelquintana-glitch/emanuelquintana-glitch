@@ -71,18 +71,3 @@
 
 ---
 
-###  Sobre mí
-Soy un economista en formación con un enfoque híbrido. Creo firmemente que el futuro de la economía reside en la capacidad de procesar y modelar grandes volúmenes de datos mediante la computación avanzada.
-
--  **Institución:** Estudiante en la **UPTC**.
--  **Intereses:** Econometría con Python/R, Machine Learning aplicado a finanzas y desarrollo de software.
--  **Dato curioso:** Me encanta desglosar problemas económicos complejos a través de algoritmos eficientes.
-
----
-
-<p align="center">
-  "La economía nos dice qué hacer, la computación nos da la escala para hacerlo realidad."
-</p>
-
-
-</div>
