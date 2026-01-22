@@ -58,4 +58,31 @@
 [![HTML5](https://img.shields.io/badge/Construido_con_HTML5_&_CSS3-064273?style=for-the-badge&logo=html5&logoColor=white)](https://emanuelquintana-glitch.github.io/portfolio/)
 [![Licencia](https://img.shields.io/badge/Licencia-CC_BY_NC_4.0-09C3DB?style=for-the-badge)](https://creativecommons.org/licenses/by-nc/4.0/)
 
+---
+
+<div align="center">
+  <img src="uptc-logo.png" alt="Logo UPTC" width="150">
+
+  # Hola, soy Emanuel Quintana Silva 
+  ### Estudiante de Economía | Apasionado por la Computación y los Datos
+  *Universidad Pedagógica y Tecnológica de Colombia (UPTC)*
+  
+</div>
+
+---
+
+###  Sobre mí
+Soy un economista en formación con un enfoque híbrido. Creo firmemente que el futuro de la economía reside en la capacidad de procesar y modelar grandes volúmenes de datos mediante la computación avanzada.
+
+-  **Institución:** Estudiante en la **UPTC**.
+-  **Intereses:** Econometría con Python/R, Machine Learning aplicado a finanzas y desarrollo de software.
+-  **Dato curioso:** Me encanta desglosar problemas económicos complejos a través de algoritmos eficientes.
+
+---
+
+<p align="center">
+  "La economía nos dice qué hacer, la computación nos da la escala para hacerlo realidad."
+</p>
+
+
 </div>
