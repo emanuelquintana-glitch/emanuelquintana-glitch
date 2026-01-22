@@ -3,7 +3,7 @@
 <!-- Banner principal -->
 <h1>
   
-   EMANUEL QUINTANA SILVA.
+   Emanuel Quintan Silva.
   
 </h1>
 
