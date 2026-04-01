@@ -23,7 +23,7 @@
 
 ---
 
-##  **Enlaces Rápidos.**
+##  **Enlaces Rápidos**
 
 ###  Proyectos Destacados
 
