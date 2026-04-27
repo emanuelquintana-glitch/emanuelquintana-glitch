@@ -64,7 +64,7 @@
 
   # Emanuel Quintana Silva 
   ### Estudiante de Economía | Apasionado por la Computación y los Datos
-  *Universidad Pedagógica y Tecnológica de Colombia (UPTC)*
+  *Universidad Pedagógica y Tecnológica de Colombia *
   
 </div>
 
