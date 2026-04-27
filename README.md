@@ -63,7 +63,7 @@
 <div align="center">
   <img src="uptc-logo.png" alt="Logo UPTC" width="150">
 
-  # Hola, soy Emanuel Quintana Silva 
+  # Emanuel Quintana Silva 
   ### Estudiante de Economía | Apasionado por la Computación y los Datos
   *Universidad Pedagógica y Tecnológica de Colombia (UPTC)*
   
