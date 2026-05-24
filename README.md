@@ -38,7 +38,7 @@
 
 ---
 
-##  DECLARACIÓN DE INVESTIGACIÓN.
+##  DECLARACIÓN DE INVESTIGACIÓN
 
 > "La investigación en economía computacional representa la convergencia entre el rigor matemático de la teoría económica y el poder transformador de la ciencia de datos."
 
