@@ -24,7 +24,7 @@
 ---
 
 
-###  Proyectos Destacados.
+###  Proyectos Destacados
 
 [![Applied Computational Mathematics](https://img.shields.io/badge/_Applied_Computational_Mathematics-064273?style=flat-square)](https://github.com/emanuelquintana-glitch/APPLIED_-_COMPUTATIONAL_MATHS)
 [![Economía Matemática](https://img.shields.io/badge/_Economía_Matemática:_Apuntes-09C3DB?style=flat-square)](https://github.com/emanuelquintana-glitch/Apuntes-Economia-Matematica)
