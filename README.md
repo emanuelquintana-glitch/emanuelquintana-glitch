@@ -29,7 +29,7 @@
 [![Applied Computational Mathematics](https://img.shields.io/badge/_Applied_Computational_Mathematics-064273?style=flat-square)](https://github.com/emanuelquintana-glitch/APPLIED_-_COMPUTATIONAL_MATHS)
 [![Economía Matemática](https://img.shields.io/badge/_Economía_Matemática:_Apuntes-09C3DB?style=flat-square)](https://github.com/emanuelquintana-glitch/Apuntes-Economia-Matematica)
 [![Aeronautics Analysis](https://img.shields.io/badge/_Aeronautics:_Computational_Analysis-298AAA?style=flat-square)](https://github.com/emanuelquintana-glitch/Aeronautics_1)
-
+.
 ###  Identificadores Académicos
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--8419--2805-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8419-2805)
