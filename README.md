@@ -35,7 +35,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--8419--2805-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8419-2805)
 [![UPTC](https://img.shields.io/badge/UPTC-Universidad_Pedagógica_y_Tecnológica_de_Colombia-064273?style=flat-square)](https://www.uptc.edu.co/)
 [![Email](https://img.shields.io/badge/Email-emanuel.quintana@uptc.edu.co-09C3DB?style=flat-square&logo=gmail&logoColor=white)](mailto:emanuel.quintana@uptc.edu.co)
-.
+
 ---
 
 ##  DECLARACIÓN DE INVESTIGACIÓN
