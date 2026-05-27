@@ -12,7 +12,7 @@
 </div>
 
 ---
-
+.
 ##  **Portafolio Interactivo Completo**
 
 [![Acceder al Portafolio Aerospacial](https://img.shields.io/badge/_Ver_Portafolio_Interactivo_Completo-09C3DB?style=for-the-badge&logo=rocket&logoColor=white)](https://emanuelquintana-glitch.github.io/portfolio/)
