@@ -3,7 +3,8 @@
 <!-- Banner principal -->
 <h1>
   
-   ..Emanuel Quintana Silva
+   ..
+  Emanuel Quintana Silva
   
 </h1>
 
