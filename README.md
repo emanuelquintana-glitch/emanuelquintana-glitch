@@ -1,5 +1,5 @@
 <div align="center">
-<!-- Banner princip
+<!-- Banner princi
 <h1>
 
   Emanuel Quintana Silva
