@@ -1,5 +1,5 @@
 <div align="center">
-<!-- Banner
+<!-- 
 <h1>
 
   Emanuel Quintana Silva
