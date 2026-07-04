@@ -2,7 +2,7 @@
 <h1>
   
   Emanuel Quintana Silva
-)))))
+))))
 </h1>
 
 <h3 style="color: #064273;">Economista en Formación</h3>
