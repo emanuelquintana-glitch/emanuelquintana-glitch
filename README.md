@@ -1,7 +1,7 @@
 <div align="center">
 <h1>
   
-  Emanuel Quintana Silva
+  Eanuel Quintana Silva
 
 </h1>
 
